@@ -18,7 +18,7 @@ This project is written in python and uses various libraries including: pandas, 
 
 I used the results of my analysis to answer the following questions (see notebooks for conclusions):
 
-   *Based on your time series analysis, would you buy the yen now?
+   *Based on your time series analysis, would you buy the yen now?*
     
    *Is the risk of the yen expected to increase or decrease?
     
